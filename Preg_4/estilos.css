@@ -7,3 +7,13 @@ div~:{
     color:aquamarine;
     background: #ff0027;
 }
+
+p+p{
+    border-color: aliceblue
+}
+
+section>article{
+    color: cornsilk
+}
+
+
