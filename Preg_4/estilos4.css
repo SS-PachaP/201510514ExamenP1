@@ -2,7 +2,6 @@
     background: skyblue;
 }
 
-
 div~:{
     color:aquamarine;
     background: #ff0027;
@@ -15,5 +14,6 @@ p+p{
 section>article{
     color: cornsilk
 }
+
 
 
