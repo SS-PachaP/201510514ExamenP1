@@ -1,5 +1,17 @@
-link[href]{
-    background-color: azure
+*{
+    color: #147614
 }
 
-p[title^="Parrafo"]
+
+/* Atributo CONTIENE */
+p[title^="Parr"]{
+    background: blue;
+    color: aliceblue
+}
+
+/* Atributo Comienza con */
+
+
+
+/* Atributo Seprado por espacio */
+
