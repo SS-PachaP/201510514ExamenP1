@@ -3,14 +3,17 @@
 }
 
 
-/* Atributo CONTIENE */
-p[title^="Parr"]{
-    background: blue;
+/* Atributo COMIENZA CON */
+section[class^="Sec"]{
+    background: skyblue;
     color: aliceblue
 }
 
-/* Atributo Comienza con */
-
+/* Atributo CONTIENE con */
+p[title*="Uno"]{
+    color: #fafa01;
+    text-align: center
+}
 
 
 /* Atributo Seprado por espacio */
