@@ -11,10 +11,12 @@ section[class^="Sec"]{
 
 /* Atributo CONTIENE con */
 p[title*="Uno"]{
-    color: #fafa01;
+    color: #ffff00;
     text-align: center
 }
 
 
 /* Atributo Seprado por espacio */
-
+p[title~="dos"]{
+    text-align: right
+}
